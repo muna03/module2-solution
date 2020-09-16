@@ -1,0 +1,63 @@
+/* base style */
+
+* {
+    box-sizing:border-box;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 75%;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.box {
+    width:30%;
+    border: 1px solid black;
+    float: left;
+    padding:25px 8px 8px 8px;
+    margin: 5px 10px;
+    background-color: rgb(208, 212, 212);
+}
+
+.small {
+    background-color: rgb(247, 178, 230);
+    width:70px;
+    margin:0px 0px;
+    text-align: center;
+    border: 1px solid black;
+    position: relative;
+    top: 25px;
+    left: 242px;
+    
+}
+
+.small1 {
+    background-color: rgb(255, 69, 62);
+    width:70px;
+    margin: 0px 0px;
+    text-align: center;
+    border: 1px solid black;
+    position: relative;
+    bottom: 26px;
+    left: 224px;
+
+}
+
+.small2 {
+    background-color: rgb(247, 226, 112);
+    width:70px;
+    margin: 0px 0px;
+    text-align: center;
+    border: 1px solid black;
+    position: relative;
+    bottom: 26px;
+    left: 223px;
+
+}
